@@ -12,4 +12,5 @@ a {
 p:first-of-type {
   font-style: italic;
   color: grey;
+  font-size: 1.25rem;
 }
