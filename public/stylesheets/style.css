@@ -11,4 +11,5 @@ a {
 
 p:first-of-type {
   font-style: italic;
+  color: grey;
 }
