@@ -14,3 +14,8 @@ p:first-of-type {
   color: grey;
   font-size: 1.25rem;
 }
+
+p:nth-of-type(2) {
+  background: purple;
+  color: white;
+ }
